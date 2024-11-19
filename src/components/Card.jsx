@@ -20,8 +20,8 @@ const Card = () => {
             stagger: 0.5,
             scrollTrigger: {
               trigger: ".cards",
-              start: "top 50%",
-              end:"top 70%",
+              start: "top 98%",
+              end:"top 50%",
               scrub:1,
             },
           }
