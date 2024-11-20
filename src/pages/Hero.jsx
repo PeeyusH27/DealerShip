@@ -26,7 +26,7 @@ const Hero = () => {
       {
         x: 0,
         duration: 1.8,
-        ease: "ease2.in",
+        ease: "power2.out",
       }
     );
   }, []);
